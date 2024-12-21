@@ -23,8 +23,8 @@ Ensure the following tools and libraries are installed on your system:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone git@github.com:imosudi/sdn_network.git
+   cd sdn_network
    ```
 
 2. Set up a Python virtual environment:
