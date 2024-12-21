@@ -17,7 +17,6 @@ Ensure the following tools and libraries are installed on your system:
 
 - **Python 3.9+**
 - **Mininet (2.3.0.dev6)**
-- **Ryu Controller**
 
 ## Installation
 
