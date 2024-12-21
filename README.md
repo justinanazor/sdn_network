@@ -46,13 +46,14 @@ Ensure the following tools and libraries are installed on your system:
 ## Usage
 
 ### A simple SDN Controller 
-
+You might want to make use of this basic SDN controller if you do not have a running controller  
 https://github.com/imosudi/sdn_controller
 
 ### Running the Topology
 
 1. Launch a desired topology from the `main.py` script:
    ```bash
+   sudo mn -c
    sudo python3 main.py
    ```
 
