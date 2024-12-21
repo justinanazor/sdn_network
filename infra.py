@@ -1,3 +1,5 @@
+
+
 from mininet.net import Mininet
 from mininet.node import Controller, RemoteController
 from mininet.cli import CLI
@@ -90,7 +92,7 @@ class netType(object):
         ryu_controller = net.addController(
             'ryuController',
             controller=RemoteController,
-            ip='127.0.0.1',  # IP address of the machine running the Ryu controller
+            ip='127.0.0.1',  # IP address of the machine running the Ryu controller -This configuration assumes ryu controller is running on the same machine
             port=6633  # Default OpenFlow port
         )
 
