@@ -85,12 +85,12 @@ Each topology is defined in the `infra.py` file. You can:
 
 ## Project Structure
 
-
+```
 ├── infra.py           # Contains topology definitions
 ├── main.py            # Entry point for running topologies
 ├── requirements.txt   # Python dependencies
 ├── README.md          # Project documentation
-`
+```
 
 ## Example Topology Descriptions
 
