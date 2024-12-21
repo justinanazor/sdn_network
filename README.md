@@ -45,6 +45,10 @@ Ensure the following tools and libraries are installed on your system:
 
 ## Usage
 
+### A simple SDN Controller 
+
+https://github.com/imosudi/sdn_controller
+
 ### Running the Topology
 
 1. Launch a desired topology from the `main.py` script:
