@@ -1,5 +1,3 @@
-
-
 from mininet.net import Mininet
 from mininet.node import Controller, RemoteController
 from mininet.cli import CLI
